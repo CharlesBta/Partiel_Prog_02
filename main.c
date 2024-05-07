@@ -180,13 +180,13 @@ int main_Exo4() {
 #pragma endregion
 
 int main(void) {
-    printf("Exo_1: \n");
+    printf("//Exo_1\\\\: \n");
     main_Exo1();
-    printf("\nExo_2: ");
+    printf("\n//Exo_2\\\\: ");
     main_Exo2();
-    printf("\nExo_3: \n");
+    printf("\n//Exo_3\\\\: \n");
     main_Exo3();
-    printf("\nExo_4: \n");
+    printf("\n//Exo_4\\\\: \n");
     main_Exo4();
     return 0;
 }
